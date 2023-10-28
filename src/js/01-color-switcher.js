@@ -18,3 +18,4 @@ function getRandomHexColor() {
     startButton.disabled = false; 
     clearInterval(intervalId);
   });
+  
